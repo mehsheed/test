@@ -3,4 +3,3 @@ gadget line 02
 gadget line 03
 gadget line 04
 gadget line 05
-gadget line 06
