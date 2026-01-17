@@ -2,5 +2,3 @@ widget line 01
 widget line 02
 widget line 03
 widget line 04
-widget line 05
-widget line 06
